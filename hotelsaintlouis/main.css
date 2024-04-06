@@ -170,6 +170,7 @@ textarea#chat-input {
   padding: 10px;
   font-size: 14px;
 margin: 0;
+   border-radius: 0;
 }
 
 a#send-it {
