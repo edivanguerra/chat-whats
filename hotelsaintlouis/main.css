@@ -176,7 +176,7 @@ a#send-it {
   font-weight: 700;
   padding: 10px 10px 0;
   background: #eee;
-  border-radius: 10px;
+ /* border-radius: 10px; */
 
   svg {
     fill: #a6a6a6;
