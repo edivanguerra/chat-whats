@@ -301,7 +301,7 @@ a.close-chat {
   z-index: 2;
   box-shadow: rgba(0, 0, 0, 0.13) 0px 1px 0.5px;
   margin-top: 4px;
-  margin-left: -54px;
+  /*margin-left: -54px;*/
   max-width: calc(100% - 66px);
 }
 
@@ -392,7 +392,7 @@ a.close-chat {
   z-index: 2;
   box-shadow: rgba(0, 0, 0, 0.13) 0px 1px 0.5px;
   margin-top: 4px;
-  margin-left: -54px;
+  /* margin-left: -54px; */
   max-width: calc(100% - 66px);
   &::before {
     position: absolute;
@@ -438,4 +438,5 @@ a.close-chat {
   margin-right: -8px;
   margin-bottom: -4px;
 }
+
 
