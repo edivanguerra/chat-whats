@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
       </div>
       <div id="wa-floating-btn" class="wa-floating-btn">
-        <img src="LINK_DO_ICONE_BRANCO_AQUI" alt="WhatsApp" class="wa-float-icon">
+        <img src="https://raw.githubusercontent.com/edivanguerra/chat-whats/041c4af4594aad366600cabd5bea51ae30631292/biovest/ico-whats.png" alt="WhatsApp" class="wa-float-icon">
         <span id="wa-notification-badge" class="wa-badge hidden">1</span>
       </div>
     </div>
