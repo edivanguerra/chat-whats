@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
           </div>
         </div>
         <div class="wa-chat-footer">
-          <a href="SEU_LINK_DO_TINTIM_AQUI" target="_blank" rel="noopener noreferrer" class="wa-action-btn">
+          <a href="https://tintim.link/whatsapp/13700435-7571-409b-b388-2fe2d8b5120f/201a726b-f2a3-41c7-aafb-5df5dac3ce45" target="_blank" rel="noopener noreferrer" class="wa-action-btn">
             Iniciar conversa
           </a>
         </div>
