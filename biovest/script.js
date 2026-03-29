@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
       <div id="wa-chat-window" class="wa-chat-window">
         <div class="wa-chat-header">
           <div class="wa-header-info">
-            <img src="LINK_DA_LOGO_BIOVEST_AQUI" alt="Biovest" class="wa-logo">
+            <img src="https://raw.githubusercontent.com/edivanguerra/chat-whats/refs/heads/main/biovest/logo-biovest.png" alt="Biovest" class="wa-logo">
             <div class="wa-titles">
               <span class="wa-title">Biovest</span>
               <span class="wa-subtitle">Atendimento</span>
